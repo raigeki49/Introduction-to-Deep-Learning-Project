@@ -1,0 +1,133 @@
+Pretrain = 20
+fine tuning = 50
+Pretrain 1: Epoch 1/20, Loss: 0.071024
+Pretrain 1: Epoch 2/20, Loss: 0.068522
+Pretrain 1: Epoch 3/20, Loss: 0.064411
+Pretrain 1: Epoch 4/20, Loss: 0.059118
+Pretrain 1: Epoch 5/20, Loss: 0.055750
+Pretrain 1: Epoch 6/20, Loss: 0.048168
+Pretrain 1: Epoch 7/20, Loss: 0.047916
+Pretrain 1: Epoch 8/20, Loss: 0.045691
+Pretrain 1: Epoch 9/20, Loss: 0.045279
+Pretrain 1: Epoch 10/20, Loss: 0.042030
+Pretrain 1: Epoch 11/20, Loss: 0.039359
+Pretrain 1: Epoch 12/20, Loss: 0.037319
+Pretrain 1: Epoch 13/20, Loss: 0.038474
+Pretrain 1: Epoch 14/20, Loss: 0.036449
+Pretrain 1: Epoch 15/20, Loss: 0.034795
+Pretrain 1: Epoch 16/20, Loss: 0.032974
+Pretrain 1: Epoch 17/20, Loss: 0.034599
+Pretrain 1: Epoch 18/20, Loss: 0.032835
+Pretrain 1: Epoch 19/20, Loss: 0.033763
+Pretrain 1: Epoch 20/20, Loss: 0.033107
+Pretrain 2: Epoch 1/20, Loss: 0.064568
+Pretrain 2: Epoch 2/20, Loss: 0.051592
+Pretrain 2: Epoch 3/20, Loss: 0.042260
+Pretrain 2: Epoch 4/20, Loss: 0.041583
+Pretrain 2: Epoch 5/20, Loss: 0.038482
+Pretrain 2: Epoch 6/20, Loss: 0.038155
+Pretrain 2: Epoch 7/20, Loss: 0.037231
+Pretrain 2: Epoch 8/20, Loss: 0.035238
+Pretrain 2: Epoch 9/20, Loss: 0.034284
+Pretrain 2: Epoch 10/20, Loss: 0.032860
+Pretrain 2: Epoch 11/20, Loss: 0.031941
+Pretrain 2: Epoch 12/20, Loss: 0.032404
+Pretrain 2: Epoch 13/20, Loss: 0.028254
+Pretrain 2: Epoch 14/20, Loss: 0.028609
+Pretrain 2: Epoch 15/20, Loss: 0.029454
+Pretrain 2: Epoch 16/20, Loss: 0.031432
+Pretrain 2: Epoch 17/20, Loss: 0.030657
+Pretrain 2: Epoch 18/20, Loss: 0.030049
+Pretrain 2: Epoch 19/20, Loss: 0.027707
+Pretrain 2: Epoch 20/20, Loss: 0.028140
+Pretrain 3: Epoch 1/20, Loss: 0.017066
+Pretrain 3: Epoch 2/20, Loss: 0.011351
+Pretrain 3: Epoch 3/20, Loss: 0.011076
+Pretrain 3: Epoch 4/20, Loss: 0.009785
+Pretrain 3: Epoch 5/20, Loss: 0.009404
+Pretrain 3: Epoch 6/20, Loss: 0.008677
+Pretrain 3: Epoch 7/20, Loss: 0.008165
+Pretrain 3: Epoch 8/20, Loss: 0.007621
+Pretrain 3: Epoch 9/20, Loss: 0.007395
+Pretrain 3: Epoch 10/20, Loss: 0.008647
+Pretrain 3: Epoch 11/20, Loss: 0.007881
+Pretrain 3: Epoch 12/20, Loss: 0.007872
+Pretrain 3: Epoch 13/20, Loss: 0.007448
+Pretrain 3: Epoch 14/20, Loss: 0.007155
+Pretrain 3: Epoch 15/20, Loss: 0.006322
+Pretrain 3: Epoch 16/20, Loss: 0.006640
+Pretrain 3: Epoch 17/20, Loss: 0.006951
+Pretrain 3: Epoch 18/20, Loss: 0.006696
+Pretrain 3: Epoch 19/20, Loss: 0.006833
+Pretrain 3: Epoch 20/20, Loss: 0.006468
+Pretrain 4: Epoch 1/20, Loss: 0.034259
+Pretrain 4: Epoch 2/20, Loss: 0.032270
+Pretrain 4: Epoch 3/20, Loss: 0.029630
+Pretrain 4: Epoch 4/20, Loss: 0.029096
+Pretrain 4: Epoch 5/20, Loss: 0.028863
+Pretrain 4: Epoch 6/20, Loss: 0.029989
+Pretrain 4: Epoch 7/20, Loss: 0.027219
+Pretrain 4: Epoch 8/20, Loss: 0.028201
+Pretrain 4: Epoch 9/20, Loss: 0.026679
+Pretrain 4: Epoch 10/20, Loss: 0.027419
+Pretrain 4: Epoch 11/20, Loss: 0.027825
+Pretrain 4: Epoch 12/20, Loss: 0.027735
+Pretrain 4: Epoch 13/20, Loss: 0.029930
+Pretrain 4: Epoch 14/20, Loss: 0.028216
+Pretrain 4: Epoch 15/20, Loss: 0.029175
+Pretrain 4: Epoch 16/20, Loss: 0.028993
+Pretrain 4: Epoch 17/20, Loss: 0.029473
+Pretrain 4: Epoch 18/20, Loss: 0.027134
+Pretrain 4: Epoch 19/20, Loss: 0.028823
+Pretrain 4: Epoch 20/20, Loss: 0.026927
+
+Finetune: Epoch 1/50, Loss: 0.065349
+Finetune: Epoch 2/50, Loss: 0.059239
+Finetune: Epoch 3/50, Loss: 0.054021
+Finetune: Epoch 4/50, Loss: 0.051224
+Finetune: Epoch 5/50, Loss: 0.045529
+Finetune: Epoch 6/50, Loss: 0.042390
+Finetune: Epoch 7/50, Loss: 0.042705
+Finetune: Epoch 8/50, Loss: 0.042081
+Finetune: Epoch 9/50, Loss: 0.038422
+Finetune: Epoch 10/50, Loss: 0.035612
+Finetune: Epoch 11/50, Loss: 0.036652
+Finetune: Epoch 12/50, Loss: 0.034963
+Finetune: Epoch 13/50, Loss: 0.034069
+Finetune: Epoch 14/50, Loss: 0.034895
+Finetune: Epoch 15/50, Loss: 0.031808
+Finetune: Epoch 16/50, Loss: 0.031681
+Finetune: Epoch 17/50, Loss: 0.030260
+Finetune: Epoch 18/50, Loss: 0.031837
+Finetune: Epoch 19/50, Loss: 0.032391
+Finetune: Epoch 20/50, Loss: 0.030591
+Finetune: Epoch 21/50, Loss: 0.031946
+Finetune: Epoch 22/50, Loss: 0.030532
+Finetune: Epoch 23/50, Loss: 0.030744
+Finetune: Epoch 24/50, Loss: 0.029180
+Finetune: Epoch 25/50, Loss: 0.028705
+Finetune: Epoch 26/50, Loss: 0.029251
+Finetune: Epoch 27/50, Loss: 0.029760
+Finetune: Epoch 28/50, Loss: 0.032794
+Finetune: Epoch 29/50, Loss: 0.024807
+Finetune: Epoch 30/50, Loss: 0.030096
+Finetune: Epoch 31/50, Loss: 0.028596
+Finetune: Epoch 32/50, Loss: 0.028892
+Finetune: Epoch 33/50, Loss: 0.031099
+Finetune: Epoch 34/50, Loss: 0.026877
+Finetune: Epoch 35/50, Loss: 0.030473
+Finetune: Epoch 36/50, Loss: 0.027600
+Finetune: Epoch 37/50, Loss: 0.028341
+Finetune: Epoch 38/50, Loss: 0.025733
+Finetune: Epoch 39/50, Loss: 0.028108
+Finetune: Epoch 40/50, Loss: 0.028345
+Finetune: Epoch 41/50, Loss: 0.027305
+Finetune: Epoch 42/50, Loss: 0.027343
+Finetune: Epoch 43/50, Loss: 0.027805
+Finetune: Epoch 44/50, Loss: 0.028785
+Finetune: Epoch 45/50, Loss: 0.026342
+Finetune: Epoch 46/50, Loss: 0.029086
+Finetune: Epoch 47/50, Loss: 0.025949
+Finetune: Epoch 48/50, Loss: 0.025525
+Finetune: Epoch 49/50, Loss: 0.024743
+Finetune: Epoch 50/50, Loss: 0.026847
