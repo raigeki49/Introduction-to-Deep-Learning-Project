@@ -4,7 +4,7 @@ This repo contains my implementation and data for my project for my *Introductio
 The goal of this project was to 1. Use Autoencoders to map a dataset to a latent space, 2. Use K-means on the latent space and then 3. compare the true labels and the clustered labels to see if the pipeline managed to retrieve the true labels.
 The idea came from the paper Unsupervised Deep Embedding for Clustering Analysis https://arxiv.org/pdf/1511.06335, which made me want to explore further AE architectures to analyse the results and perhaps achieve better scores.
 
-The project was documented in a report that can be found here:
+The project was documented in a report that can be found in the repo root.
 
 MNIST was the only dataset that was utilized in this project, for simplicity reasons and because the mentioned paper also used it allowing me to draw direct comparisons in my analysis.
 
